@@ -1,0 +1,20 @@
+#callback-form-wrapper label {
+    display: inline-block;
+    width: 30%;
+}
+
+#callback-form-wrapper{
+    width: 300px;
+}
+
+#callback-form-wrapper .required, #callback-form-wrapper .errors{
+    color: red;
+}
+
+#callback-form-wrapper .success{
+    color: green;
+}
+
+#callback-form-wrapper textarea, #callback-form-wrapper input{
+    width: 200px;
+}

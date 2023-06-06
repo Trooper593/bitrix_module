@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/callback/admin/db_list.php");?>
